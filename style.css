@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color: #ecdddd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+.second-container p{
+    margin-right: 14px;
+}
+.second-container h1{
+    margin-left: 300px;
+}
+.first-container h1{
+    background-color: #dc5f00;
+   font-size: 50px;
+   color: #ffffff;
+}
+.second-container h2{
+    color: #dc5f00;
+    margin-left: 180px;
+}
+.thrid-container h3{
+    color: #dc5f00;
+}
+.fourth-container{
+    font-size: smaller; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fourth-container img{
+   margin-top: 10px;
+   width: 40px;
+}
+.fifth-container{
+    background-color: #dc5f00;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.twitter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.instagram {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cars{
+    display: flex;
+    
+}
+.cars img {
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+}
